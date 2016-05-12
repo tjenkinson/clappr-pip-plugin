@@ -2,6 +2,8 @@
 # Clappr Picture-In-Picture Plugin
 A plugin for clappr which adds support for picture-in-picture on devices which support it, currently iOS on some models.
 
+![Screenshot](screenshot.png)
+
 # Usage
 Add both Clappr and the pip plugin scripts to your HTML:
 
