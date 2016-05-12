@@ -1,0 +1,14 @@
+<head>
+  <script type="text/javascript" src="http://cdn.clappr.io/latest/clappr.js"></script>
+  <script type="text/javascript" src="../dist/clappr-pip-plugin.js"></script>
+</head>
+<body>
+  <div id="player"></div>
+  <script>
+    var player = new Clappr.Player({
+    	source: "http://tjenkinson.me/clappr-thumbnails-plugin/assets/video.mp4",
+    	parentId: "#player",
+    	plugins: [ClapprPIPPlugin]
+    });
+  </script>
+</body>
