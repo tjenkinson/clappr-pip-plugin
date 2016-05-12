@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/clappr-pip-plugin.svg)](https://badge.fury.io/js/clappr-pip-plugin)
 # Clappr Picture-In-Picture Plugin
-A plugin for clappr adds support for picture in picture on devices which support it, currently iOS on some models.
+A plugin for clappr which adds support for picture-in-picture on devices which support it, currently iOS on some models.
 
 # Usage
 Add both Clappr and the pip plugin scripts to your HTML:
