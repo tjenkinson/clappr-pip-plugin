@@ -1,6 +1,6 @@
 {
   "name": "clappr-pip-plugin",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A plugin for clappr which adds support for picture-in-picture on devices which support it.",
   "main": "dist/clappr-pip-plugin.js",
   "scripts": {
